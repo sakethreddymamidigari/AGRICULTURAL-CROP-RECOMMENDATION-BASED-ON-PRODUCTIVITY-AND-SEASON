@@ -57,21 +57,21 @@ Output:
 project/
 │
 ├── app.py
-|
+
 ├── model.pkl
-|
+
 ├── Crop_recommendation.csv
-|
+
 ├── requirements.txt
-|
+
 ├── templates/
-|         |
+
 │         └── index.html
 |
 ├── static/
-|       |
-│       └── style.css
-|
+  
+│         └── style.css
+
 ├── README.md
 
 
