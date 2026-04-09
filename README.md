@@ -67,12 +67,13 @@ project/
 ├── templates/
 
 │         └── index.html
-|
+
 ├── static/
   
 │         └── style.css
 
 ├── README.md
+
 
 
 ## How to Run the Project
