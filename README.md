@@ -66,11 +66,11 @@ project/
 
 ├── templates/
 
-│         └── index.html
+│            └── index.html
 
 ├── static/
   
-│         └── style.css
+│            └── style.css
 
 ├── README.md
 
